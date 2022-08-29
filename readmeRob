@@ -1,0 +1,5 @@
+Authentication needed ....
+
+:GoRun .
+http://localhost:8080/v1/user/getall
+
