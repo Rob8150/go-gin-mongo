@@ -31,8 +31,8 @@ func init() {
 	ctx = context.TODO()
 	credential := options.Credential{
 		AuthSource: "admin",
-		Username:   "Razor",
-		Password:   "blindmandeath",
+		Username:   "myname",
+		Password:   "password",
 	}
 
 	fmt.Println(credential)
